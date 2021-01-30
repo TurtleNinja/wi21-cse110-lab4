@@ -1,2 +1,2 @@
-Name: Vy Truong
+Name: Vy Truong 
 Email: vntruong@ucsd.edu
